@@ -50,6 +50,8 @@ flappyq.exe
 ⚠️ This game is meant to run in real mode, so using a DOS environment (like DOSBox) is highly recommended.
 
 ⚡ Gameplay
-Press Spacebar to flap
+Press Spacebar/Up Key to flap
+
 Avoid the pipes
+
 Try not to rage quit
